@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+    <name>
+        <lang name="default">topicview</lang>
+    </name>
+    <author>
+        <lang name="default">myrkotyn</lang>
+    </author>
+    <homepage>no homepage</homepage>
+    <version>1.0</version>
+    <requires>
+        <livestreet>0.5.1</livestreet>
+    </requires>
+    <description>
+        <lang name="default">show topics viewer</lang>
+        <lang name="russian">количество просмотров топика</lang>
+    </description>
+</plugin>
